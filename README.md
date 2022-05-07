@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ...
 - 💬 Ask me about Java Go and K8S
 - 📫 How to reach me: Email
 - ✨ My pages blog: [Click Here](https://yanshaoshuai.github.io/)
