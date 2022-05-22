@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- 💬 Ask me about Java Go and K8S
-- 📫 How to reach me: Email
+- 💬 Ask me about Java Go C/C++ and K8S
+- 🌱 I’m currently learning C/C++ and Rust
+- 🤔 I’m looking for help with remote work
+- 📫 How to reach me: ahutyss@gmail.com
 - ✨ My pages blog: [Click Here](https://yanshaoshuai.github.io/)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanshaoshuai&show_icons=true&count_private=false&theme=cobalt)](https://github.com/Yanshaoshuai/github-readme-stats)
