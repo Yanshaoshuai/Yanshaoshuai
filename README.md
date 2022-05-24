@@ -2,7 +2,6 @@
 
 - 💬 Ask me about Java Go C/C++ and K8S
 - 🌱 I’m currently learning C/C++ and Rust
-- 🤔 I’m looking for help with remote work
 - 📫 How to reach me: ahutyss@gmail.com
 - ✨ My pages blog: [Click Here](https://yanshaoshuai.github.io/)
 
